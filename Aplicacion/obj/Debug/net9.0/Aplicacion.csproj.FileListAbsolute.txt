@@ -1,0 +1,16 @@
+/Users/pedrobalderrama/github/herramientas-desarrollo-software/ECE-FIAD/Aplicacion/bin/Debug/net9.0/Aplicacion.deps.json
+/Users/pedrobalderrama/github/herramientas-desarrollo-software/ECE-FIAD/Aplicacion/bin/Debug/net9.0/Aplicacion.dll
+/Users/pedrobalderrama/github/herramientas-desarrollo-software/ECE-FIAD/Aplicacion/bin/Debug/net9.0/Aplicacion.pdb
+/Users/pedrobalderrama/github/herramientas-desarrollo-software/ECE-FIAD/Aplicacion/bin/Debug/net9.0/Dominio.dll
+/Users/pedrobalderrama/github/herramientas-desarrollo-software/ECE-FIAD/Aplicacion/bin/Debug/net9.0/Dominio.pdb
+/Users/pedrobalderrama/github/herramientas-desarrollo-software/ECE-FIAD/Aplicacion/obj/Debug/net9.0/Aplicacion.csproj.AssemblyReference.cache
+/Users/pedrobalderrama/github/herramientas-desarrollo-software/ECE-FIAD/Aplicacion/obj/Debug/net9.0/Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pedrobalderrama/github/herramientas-desarrollo-software/ECE-FIAD/Aplicacion/obj/Debug/net9.0/Aplicacion.AssemblyInfoInputs.cache
+/Users/pedrobalderrama/github/herramientas-desarrollo-software/ECE-FIAD/Aplicacion/obj/Debug/net9.0/Aplicacion.AssemblyInfo.cs
+/Users/pedrobalderrama/github/herramientas-desarrollo-software/ECE-FIAD/Aplicacion/obj/Debug/net9.0/Aplicacion.csproj.CoreCompileInputs.cache
+/Users/pedrobalderrama/github/herramientas-desarrollo-software/ECE-FIAD/Aplicacion/obj/Debug/net9.0/Aplicacion.sourcelink.json
+/Users/pedrobalderrama/github/herramientas-desarrollo-software/ECE-FIAD/Aplicacion/obj/Debug/net9.0/Aplicacion.csproj.Up2Date
+/Users/pedrobalderrama/github/herramientas-desarrollo-software/ECE-FIAD/Aplicacion/obj/Debug/net9.0/Aplicacion.dll
+/Users/pedrobalderrama/github/herramientas-desarrollo-software/ECE-FIAD/Aplicacion/obj/Debug/net9.0/refint/Aplicacion.dll
+/Users/pedrobalderrama/github/herramientas-desarrollo-software/ECE-FIAD/Aplicacion/obj/Debug/net9.0/Aplicacion.pdb
+/Users/pedrobalderrama/github/herramientas-desarrollo-software/ECE-FIAD/Aplicacion/obj/Debug/net9.0/ref/Aplicacion.dll

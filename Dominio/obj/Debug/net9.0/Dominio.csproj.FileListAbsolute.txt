@@ -1,0 +1,13 @@
+/Users/pedrobalderrama/github/herramientas-desarrollo-software/ECE-FIAD/Dominio/bin/Debug/net9.0/Dominio.deps.json
+/Users/pedrobalderrama/github/herramientas-desarrollo-software/ECE-FIAD/Dominio/bin/Debug/net9.0/Dominio.dll
+/Users/pedrobalderrama/github/herramientas-desarrollo-software/ECE-FIAD/Dominio/bin/Debug/net9.0/Dominio.pdb
+/Users/pedrobalderrama/github/herramientas-desarrollo-software/ECE-FIAD/Dominio/obj/Debug/net9.0/Dominio.csproj.AssemblyReference.cache
+/Users/pedrobalderrama/github/herramientas-desarrollo-software/ECE-FIAD/Dominio/obj/Debug/net9.0/Dominio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pedrobalderrama/github/herramientas-desarrollo-software/ECE-FIAD/Dominio/obj/Debug/net9.0/Dominio.AssemblyInfoInputs.cache
+/Users/pedrobalderrama/github/herramientas-desarrollo-software/ECE-FIAD/Dominio/obj/Debug/net9.0/Dominio.AssemblyInfo.cs
+/Users/pedrobalderrama/github/herramientas-desarrollo-software/ECE-FIAD/Dominio/obj/Debug/net9.0/Dominio.csproj.CoreCompileInputs.cache
+/Users/pedrobalderrama/github/herramientas-desarrollo-software/ECE-FIAD/Dominio/obj/Debug/net9.0/Dominio.sourcelink.json
+/Users/pedrobalderrama/github/herramientas-desarrollo-software/ECE-FIAD/Dominio/obj/Debug/net9.0/Dominio.dll
+/Users/pedrobalderrama/github/herramientas-desarrollo-software/ECE-FIAD/Dominio/obj/Debug/net9.0/refint/Dominio.dll
+/Users/pedrobalderrama/github/herramientas-desarrollo-software/ECE-FIAD/Dominio/obj/Debug/net9.0/Dominio.pdb
+/Users/pedrobalderrama/github/herramientas-desarrollo-software/ECE-FIAD/Dominio/obj/Debug/net9.0/ref/Dominio.dll
